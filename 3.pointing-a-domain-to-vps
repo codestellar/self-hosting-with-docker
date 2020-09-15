@@ -1,0 +1,7 @@
+# Pointing a domain to AWS Lightsail
+
+- You can add an A record in your Domain DNS panel pointing to the static ip of AWS
+
+- Or you can use AWS to manage DNS records
+- AWS Lightsail allows you creating 3 DNS zones
+- You can use [AWS Route 53](https://aws.amazon.com/route53/) service to manage more domains
